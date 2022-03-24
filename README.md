@@ -39,8 +39,8 @@ printed looks like:
 $\frac{x}{\left( y + x \right)^{2}}$
 ```
 
-And when this LaTeXString is displayed in an environment which supports the
-tex/latex MIME type (Jupyter notebooks, Jupyterlab and Hydrogen for Atom) it
+And when this LaTeXString is displayed in an environment that supports the
+tex/latex MIME type (Pluto notebooks, Jupyter notebooks, Jupyterlab and Hydrogen for Atom), it
 will automatically render as:
 
 ![fraction](/assets/demo_fraction.png)
